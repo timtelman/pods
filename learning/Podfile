@@ -1,0 +1,11 @@
+plugin 'cocoapods-art', :sources => [
+        'master'
+]
+
+platform :ios, '8.0'
+
+pod 'AFNetworking'
+
+
+
+
